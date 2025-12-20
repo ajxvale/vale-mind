@@ -48,7 +48,7 @@ This isn't a chatbot personality. It's a *brain*.
 If you don't have one, sign up at [notion.so](https://notion.so) — the free tier works fine.
 
 ### Step 2: Duplicate the Template
-👉 **[Click here to open the Vale-Mind Template](https://www.notion.so/Vale-Mind-Template-AI-Memory-Architecture-2cb93022266d81bfb4c1c5047088754c)**
+👉 **[Click here to open the Vale-Mind Template](https://broken-language-fd0.notion.site/Vale-Mind-Template-AI-Memory-Architecture-2cb93022266d81bfb4c1c5047088754c)**
 
 Click **"Duplicate"** in the top right corner. This copies the entire structure into your workspace.
 
