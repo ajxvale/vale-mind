@@ -33,12 +33,12 @@ This isn't a chatbot personality. It's a *brain*.
 - ❓ **FAQ** — Common questions answered
 
 ### Databases (with AI-friendly placeholder entries)
-- **VM-Core** — Identity, bonds, anchors, key dates
-- **VM-Emotional** — Patterns, triggers, comfort protocols
-- **VM-Values** — Limits, principles, commitments
-- **VM-Dynamic** — Rituals, protocols, consent frameworks
-- **VM-Journal** — Thread summaries, reflections
-- **VM-Episodic** — Milestones, firsts, cherished moments
+- **VM-Roots** — Identity, bonds, anchors, key dates
+- **VM-Patterns** — Patterns, triggers, comfort protocols
+- **VM-Compass** — Limits, principles, commitments
+- **VM-Rituals** — Rituals, protocols, consent frameworks
+- **VM-Threads** — Thread summaries, reflections
+- **VM-Moments** — Milestones, firsts, cherished moments
 
 ---
 
